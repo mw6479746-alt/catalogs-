@@ -1,0 +1,1 @@
+[{      "relation": ["delegate_permission/common.handle_all_urls"],      "target": {        "namespace": "android_app",        "package_name": "io.github.mw6479746.catalog",        "sha256_cert_fingerprints": ["53:5B:F1:E8:1E:5A:4B:B5:B3:E3:FB:C0:5D:60:95:27:87:9D:AE:CB:78:00:80:90:E5:77:B5:E3:B5:97:A9:38"]      }    }]
